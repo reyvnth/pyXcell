@@ -1,0 +1,16 @@
+{
+  "_checkout": "2022.6.3",
+  "_output_dir": "/Users/zhanglab/Documents/Python Projects/Xcell",
+  "_repo_dir": "/Users/zhanglab/.cookiecutters/cookiecutter-hypermodern-python",
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Fan Zhang Lab",
+  "copyright_year": "2024",
+  "development_status": "Development Status :: 4 - Beta",
+  "email": "fanzhanglab@gmail.com",
+  "friendly_name": "pyXcell",
+  "github_user": "reyvnth",
+  "license": "MIT",
+  "package_name": "pyXcell",
+  "project_name": "pyXcell",
+  "version": "0.0.1"
+}
