@@ -18,7 +18,7 @@ classifiers = [
 Changelog = "https://github.com/reyvnth/pyXcell/releases"
 
 [tool.poetry.dependencies]
-python = "^3.12"
+python = "^3.10"
 click = ">=8.0.1"
 
 [tool.poetry.dev-dependencies]
