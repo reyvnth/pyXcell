@@ -1,4 +1,5 @@
 """Sphinx configuration."""
+
 project = "pyXcell"
 author = "Fan Zhang Lab"
 copyright = "2024, Fan Zhang Lab"

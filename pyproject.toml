@@ -8,6 +8,8 @@ readme = "README.md"
 homepage = "https://github.com/reyvnth/pyXcell"
 repository = "https://github.com/reyvnth/pyXcell"
 documentation = "https://pyXcell.readthedocs.io"
+packages = [
+    { include = "src/pyXcell"} ]
 classifiers = [
     "Development Status :: 4 - Beta",
 ]
@@ -16,7 +18,7 @@ classifiers = [
 Changelog = "https://github.com/reyvnth/pyXcell/releases"
 
 [tool.poetry.dependencies]
-python = "^3.7"
+python = "^3.12"
 click = ">=8.0.1"
 
 [tool.poetry.dev-dependencies]
